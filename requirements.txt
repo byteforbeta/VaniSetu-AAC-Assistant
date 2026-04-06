@@ -1,0 +1,18 @@
+# UI Framework
+gradio==6.11.0
+
+# AI Models & Inference
+torch==2.5.1+cu121
+openai-whisper==20250625
+llama-cpp-python==0.3.20
+
+# Audio Processing & TTS
+piper-tts==1.4.2
+onnxruntime==1.24.4
+pygame==2.6.1
+pyaudio==0.2.14
+soundfile==0.13.1
+numpy==2.4.4
+
+# Vector Database (Ambient Memory)
+chromadb==1.5.5

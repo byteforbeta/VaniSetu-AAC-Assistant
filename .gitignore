@@ -1,0 +1,19 @@
+# Virtual Environments
+env/
+venv/
+.env
+
+# AI Models (Do not upload massive files to GitHub!)
+models/
+*.gguf
+*.onnx
+*.json
+
+# Audio Caches & Vector Databases
+audio_cache/
+vanisetu_vectordb/
+*.wav
+
+# Python Cache
+__pycache__/
+*.pyc

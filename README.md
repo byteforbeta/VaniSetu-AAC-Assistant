@@ -1,4 +1,4 @@
-# VaniSetu — Offline AI Voice Assistant & AAC Software for Edge Devices
+# VaniSetu — Offline AI AAC Software for Edge Devices
 
 VaniSetu is an open-source, fully offline Alternative and Augmentative Communication (AAC) device. It acts as a smart, personalized voice for individuals with speech impairments. 
 

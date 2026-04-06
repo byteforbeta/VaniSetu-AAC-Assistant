@@ -72,7 +72,7 @@ git clone [https://github.com/byteforbeta/VaniSetu-AAC-Assistant.git](https://gi
 cd VaniSetu-AAC-Assistant
 pip install -r requirements.txt
 ```
-
+ 
 ### Step 2: Set up the models Directory
 Create a folder named `models` inside the main project directory.
 ```bash
